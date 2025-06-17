@@ -2,16 +2,23 @@
 
 hello, thanks for checking this project of mine out! 
 
-this is the EcoBin: A Bin with Fill Level Detection that uses an AI Machine
-Learning Model to sort Recyclables from Non-Recyclables  
- (est. 8th grade, 2023)
+welcome to the EcoBin. It's a bin with fill level detection that uses an AI machine
+learning Model to sort recyclables from non-necyclables. pretty cool right?  
 
-the ecobin was presented at the following and won:  
+
+ this invention was designed with the following problems in mind:
+  - the incredibly low rate of recycling
+  - the overflowing of trash due to low maintenence (unhygenic and unhealthy)
+
+and presented at the following:  
   - school science fair (1st!)
   - synopsys science and engineering fair (regionals, 1st!)
   - california science and engineering fair (states, honorable mention!)
   - thermofisher jic (nationals, top 300/1862!)
     
-for pictures and a full project presentation please do check it out [here](presentation.pdf)!  
+interested? for pictures and a full project presentation please head over [here](presentation.pdf) :)
 
+ (est. 8th grade, 2023)  
+ 
 © Devshree Mistry
+
