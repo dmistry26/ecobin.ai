@@ -3,7 +3,8 @@
 hello, thanks for checking this project of mine out! 
 
 welcome to the EcoBin. it's a bin with fill level detection that uses an AI machine
-learning model to sort recyclables from non-necyclables. pretty cool right?  
+learning model to sort recyclables from non-necyclables. pretty cool right? it incorporates computer vision, image classification, and hardware integration all in one.  
+
 
 
  this invention was designed with the following problems in mind:
